@@ -1,5 +1,5 @@
 # HackerRank_10DaysOfStatistics
-10 Days of consistenlty practicing coding and solving errors. 
+10 Days of consistently practicing coding and solving errors. 
 This repository contains statistical exercises that are solved using Python programming language. [Link of the site](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
 
 
